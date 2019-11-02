@@ -15,7 +15,7 @@
     "sails-hook-orm": "^2.1.1",
     "sails-hook-sockets": "^2.0.0",
     "sails-mysql": "1.0.1",
-    "sequelize": "^5.14.0"
+    "sequelize": "^5.15.1"
   },
   "devDependencies": {
     "eslint": "5.16.0"
